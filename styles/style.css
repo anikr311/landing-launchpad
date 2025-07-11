@@ -40,6 +40,9 @@ nav{
     font-size: 34px;
     font-weight: 900px;
 }
+.r-color{
+    color: #FF6600;
+}
 .btn-primary{
     background-color: #4E47FF;
     font-weight: bold;
@@ -213,3 +216,42 @@ label {
     font-weight: 400px;
     color: #ffffffbb;
 } */
+
+/* footer */
+    
+.section-footer{
+    width: 100%;
+    /* height: 428px; */
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    padding: 106px 0px;
+    gap: 0px;
+}
+.footer-title{
+    font-size: 100px;
+    font-weight: 900px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.footer-description{
+    font-size: 20px;
+    font-weight: 400px;
+    color: #8987A1;
+    text-align: center;
+}
+.footer-link ul{
+    display: flex;
+    margin-right: 48px;
+    justify-content: space-between;
+    padding: 0px 454px;
+}
+.footer-link ul li{
+    list-style: none;
+    font-size: 20px;
+    font-weight: 400px;
+    color: #8987A1;
+}
+.footer-link ul li a{
+    text-decoration: none;
+    color: #8987A1;
+}
