@@ -16,6 +16,9 @@
 .primary-color{
     color: #4E47FF;
 }
+.bg-primary{
+    background-color: #f5f8ff;
+}
 /* header */
 header{
     background-image: url('../Assets/Hero-bg.png');
@@ -118,4 +121,37 @@ nav{
     opacity: 50%;
     padding: 0px;
     margin: 0px;
+}
+/* users feedback section */
+.users-feedback{
+    padding: 151px 137px;
+    margin-top: 0px;
+}
+.users-feedback-title{
+    text-align: center;
+    padding: 0px;
+}
+.feedback-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 150px;
+    margin: 0px 100px;
+}
+.avatar{
+    border-radius: 40px;
+}
+.feedback{
+    background-color: #ffffff;
+    padding: 24px 24px;
+    border-radius: 14px;
+}
+/* focus section */
+.section-focus{
+    background-color: #ffffff;
+    display: flex;
+    align-items: center top;
+    padding: 70px 150px;
+    margin: 0px 150px;
+    border-radius: 14px;
 }
