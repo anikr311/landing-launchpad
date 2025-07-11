@@ -179,3 +179,37 @@ nav{
     padding-bottom: 20px;
     padding-top: 0px;
 }
+/* contact section
+.contact-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center top;
+    padding: 150px 70px;
+    max-width: 1140px;
+    width: 100%;
+    gap: auto;
+}
+.left-side{
+    font-size: 57px;
+    font-weight: bold;
+    padding: 0px 200px;
+}
+input[type=text],input[type=email], textarea{
+    width: 100%;
+    padding: 0px;
+    border-radius:0px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    gap: 19px;
+}
+label {
+    font-size: 18px;
+    font-weight: 500px;
+}
+.form-container input[ type="text"]{
+    font-size: 20px;
+    font-weight: 400px;
+    color: #ffffffbb;
+} */
